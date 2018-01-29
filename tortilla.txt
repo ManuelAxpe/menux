@@ -1,6 +1,11 @@
  es un plato español que tiene, ahora con cebolla
  este es un nuevo inhgrediente
+<<<<<<< HEAD
 tiene patatas
+=======
+tienen patatas y huevos
+su coste es 12 eurios
+>>>>>>> 9e8d17de59dfe1fcddf1bdc6703ddb6cf627ac51
 
 eigura 1-6. Directorio de trabajo, área de preparación y directorio de Git.
 
